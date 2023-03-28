@@ -1,0 +1,51 @@
+body{
+    background-color: #f3ede2;
+    margin: 0px;
+}
+
+header {
+    background-color: #36493a;
+    color: #fff;
+    height: 50px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    margin: 0px;
+}
+
+p{
+    text-align: center;
+}
+#principal{
+    width: 800px;
+    margin: auto;
+}
+
+figure{
+    background-color: #fff;
+    width: 300px;
+    margin: 15px auto;
+    border: 1px solid #36493a;
+    padding: 10px;
+}
+
+figure img{
+    width: 300px;
+}
+
+figcaption{
+    text-align: center;
+    font-style: italic;
+    padding: 5px;
+}
+
+footer{
+    background-color: #36493a;
+    color: #fff;
+    height: 50px;
+    padding: 15px;
+    text-align: center;
+}
